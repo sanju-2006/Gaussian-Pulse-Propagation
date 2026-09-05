@@ -55,6 +55,7 @@ Place and connect the following components:
 - Use the visualizer displays to measure:  
   - FWHM width of input and output pulses  
   - FWHM width of optical spectra  
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/16b678fc-8b68-4ba2-8dc0-10a35d878c92" />
 
 ---
 
